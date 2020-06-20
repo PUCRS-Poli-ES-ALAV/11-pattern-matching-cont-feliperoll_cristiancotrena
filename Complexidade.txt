@@ -1,0 +1,1 @@
+No pior caso o algoritmo KMP_String_Matching tem como complexidade O(n).
